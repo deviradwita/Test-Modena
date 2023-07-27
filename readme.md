@@ -27,6 +27,7 @@ Congratulations on successfully cloning this repository! Now, follow these steps
         nodemon app.js
     ```
     if you want to use nodemon for automatic server restart and don't istall nodemon globally, follow these command:
+   
         ```bash
             npm install -D nodemon
         ``` 
